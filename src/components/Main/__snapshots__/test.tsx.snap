@@ -1,9 +1,13 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> shoulder render the heading 1`] = `
-<main>
-  <h1>
-    React Avançado
+<main
+  class="styles__Wrapper-sc-dzx1ao-0 fpuzMP"
+>
+  <h1
+    class="styles__Title-sc-dzx1ao-1 irNnjY"
+  >
+    Boilerplatezada.
   </h1>
 </main>
 `
