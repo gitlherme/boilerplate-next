@@ -9,6 +9,7 @@ function App({ Component, pageProps }: AppProps) {
         <title>Boilerplate</title>
         <link rel="shortcut" href="" />
         <link rel="apple-touch-icon" href="" />
+        <link rel="manifest" href="/manifest.json" />
         <meta name="description" content="" />
       </Head>
       <GlobalStyles />
